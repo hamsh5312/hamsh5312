@@ -1,6 +1,7 @@
 ### Here is What I'm Working On! 👋
 
 ###  <b>:rocket: Tech Stack :rocket:</b>
+<div align=center>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
@@ -11,7 +12,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ECLIPSE-3766AB?style=flat-square&logo=ECLIPSE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=Github"/>
-
+</div>
 <a href="https://instagram.com/alpox.dev">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
