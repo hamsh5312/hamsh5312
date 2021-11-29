@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/MYSQL-1572B6?style=flat-square&logo=MYSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SPRING-47A248?style=flat-square&logo=SPRING&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ECLIPSE-3766AB?style=flat-square&logo=ECLIPSE&logoColor=white&descAlign=50"/></a>
+<img src="https://img.shields.io/badge/ECLIPSE-3766AB?style=flat-square&logo=ECLIPSE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=Github"/>
 
 
