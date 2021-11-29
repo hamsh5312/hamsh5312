@@ -18,15 +18,15 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=Github"/>
 </div>
-
+<br>
 <div align=center>
  📌 <b>CONTACT</b> 📌
  <br>
- <b>hamsh5312@naver.com</b>
+ hamsh5312@naver.com
  <br>
- <b>KakaoTalk ID: hamsh5312</b>
+ KakaoTalk ID: hamsh5312
 <div>
- 
+<br>
 <div align=center>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
