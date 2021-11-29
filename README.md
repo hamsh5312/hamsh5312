@@ -19,7 +19,15 @@
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=Github"/>
 </div>
 
+<div align=center>
+ 📌 <b>CONTACT</b> 📌
+ <br>
+ <b>hamsh5312@naver.com</b>
+ <br>
+ <b>KakaoTalk ID: hamsh5312</b>
 <div>
+ 
+<div align=center>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
