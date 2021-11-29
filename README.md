@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HAM%20SEO%HYUN&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HAM%20SEO&nbsp;HYUN&fontSize=70)
 ###  <b>:rocket: Tech Stack :rocket:</b>
 <div align=center>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
