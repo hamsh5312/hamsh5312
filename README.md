@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HAM%20SEO&nbsp;HYUN&fontSize=70)
-###  <b>:rocket: Tech Stack :rocket:</b>
+###  <b align=center>:rocket: Tech Stack :rocket:</b>
 <div align=center>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -16,17 +16,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=Github"/>
 </div>
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 
 <div>
     <img 
@@ -37,24 +26,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## AlpoxDev : Service Programmer
+## Service Programmer
+프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는 데 관심이 많고 계속해서 발전하는 프로그래머입니다. 
 
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
-
-## Stack
-
-- React.js
-- Node.js
-- React-Native
-- Android-Studio
-
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
